@@ -1,0 +1,10 @@
+.comment{
+    width: 100%;
+}
+
+.input{
+    width: 100%;
+    background-color: hsl(0, 4%, 64%);
+    
+    border-radius: 10px;
+}

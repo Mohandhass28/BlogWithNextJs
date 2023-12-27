@@ -1,0 +1,61 @@
+.home {
+  width: 100%;
+  height: auto;
+  background-color: hsl(0, 2%, 76%);
+  border-radius: 3rem;
+  margin-top: 20px;
+}
+
+.homehead {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 3rem;
+}
+
+.contant {
+  padding: 2rem;
+  height: auto;
+  /* display: flex; */
+  overflow: hidden;
+  width: 19w0vh;
+}
+
+.icon {
+  display: flex;
+  margin-top:0rem;
+}
+
+.icon div {
+  padding: 0 1.2rem ;
+}
+
+.icons:hover {
+  cursor: pointer;
+}
+
+.comment {
+    width: 80%;
+    position: absolute;
+    display: flex;
+    background-color: rgb(181, 173, 173);
+    margin-left: 1.5rem;
+    width: 90%;
+    height: 80%;
+    top: 10%;
+    border-radius: 3rem;
+    /* justify-content: end; */
+}
+.incomment{
+    width: 100%;
+    margin: 4rem;
+}
+
+.comment_icone{
+    display: flex;
+    position: absolute;
+    margin: 2rem;
+    width: 100%;
+    height: 20px;
+    justify-content: end;   
+    padding-right: 4.5rem;
+}
